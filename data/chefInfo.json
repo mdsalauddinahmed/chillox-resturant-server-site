@@ -1,0 +1,92 @@
+[
+    {
+      "id": "1",
+      "name": "Gordon Ramsay",
+      "specialty": "British cuisine",
+      "experience": "25 years",
+      "recipes": "200",
+      "likes": "15000",
+      "picture": "https://example.com/gordon-ramsay.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Massimo Bottura",
+      "specialty": "Italian cuisine",
+      "experience": "30 years",
+      "recipes": "150",
+      "likes": "12000",
+      "picture": "https://example.com/massimo-bottura.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Joël Robuchon",
+      "specialty": "French cuisine",
+      "experience": "50 years",
+      "recipes": "100",
+      "likes": "18000",
+      "picture": "https://example.com/joel-robuchon.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Dominique Crenn",
+      "specialty": "Contemporary French cuisine",
+      "experience": "20 years",
+      "recipes": "75",
+      "likes": "8000",
+      "picture": "https://example.com/dominique-crenn.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Enrique Olvera",
+      "specialty": "Mexican cuisine",
+      "experience": "15 years",
+      "recipes": "50",
+      "likes": "5000",
+      "picture": "https://example.com/enrique-olvera.jpg"
+    },
+    {
+      "id": "6",
+      "name": "Ana Ros",
+      "specialty": "Slovenian cuisine",
+      "experience": "20 years",
+      "recipes": "25",
+      "likes": "6000",
+      "picture": "https://example.com/ana-ros.jpg"
+    },
+    {
+        "id": "7",
+        "name": "Thomas Keller",
+        "specialty": "French and American cuisine",
+        "experience": "35 years",
+        "recipes": "125",
+        "likes": "11000",
+        "picture": "https://example.com/thomas-keller.jpg"
+      },
+      {
+        "id": "8",
+        "name": "Yotam Ottolenghi",
+        "specialty": "Middle Eastern cuisine",
+        "experience": "20 years",
+        "recipes": "100",
+        "likes": "9000",
+        "picture": "https://example.com/yotam-ottolenghi.jpg"
+      },
+      {
+        "id": "9",
+        "name": "Clare Smyth",
+        "specialty": "Modern British cuisine",
+        "experience": "15 years",
+        "recipes": "50",
+        "likes": "4000",
+        "picture": "https://example.com/clare-smyth.jpg"
+      },
+      {
+        "id": "10",
+        "name": "Mitsuharu Tsumura",
+        "specialty": "Nikkei cuisine",
+        "experience": "15 years",
+        "recipes": "75",
+        "likes": "7000",
+        "picture": "https://example.com/mitsuharu-tsumura.jpg"
+      }
+  ]
