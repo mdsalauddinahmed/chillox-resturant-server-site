@@ -14,6 +14,15 @@ app.use(cors())
 app.get('/',(req,res) =>{
     res.send(chefs)
 });
+app.get('/recipe',(req,res) =>{
+    res.send(chefs)
+});
+app.get('/recipe/:id',(req,res) =>{
+    const id= req.params.id
+    console.log(id)
+    const selectedRecipe= chefs.find(n=>n.id==id)
+    res.send(selectedRecipe)
+});
 
 app.listen(port,()=>{
     console.log(` its worked ${port}`)
