@@ -201,7 +201,29 @@
         "recipes": "125",
         "likes": "11000",
         "bio": "Joël Robuchon is a British chef, restaurateur, and television personality. He has been awarded a total of 16 Michelin stars for his restaurants around the world, making him one of the most successful chefs of all time.",
-        "picture": "https://nationaltoday.com/wp-content/uploads/2021/07/shutterstock_1518533924-min.jpg"
+        "picture": "https://nationaltoday.com/wp-content/uploads/2021/07/shutterstock_1518533924-min.jpg",
+        "recipesItem": [
+          {
+            "recipe_name": "Beef Wellington",
+            "ingredients": ["beef fillet", "puff pastry", "mushrooms", "parma ham", "egg"],
+            "cooking_method": "1. Preheat the oven to 200C. 2. Season the beef fillet with salt and pepper. 3. Sear the beef in a hot pan until browned on all sides. 4. Set aside to cool. 5. Mix the mushrooms and parma ham in a blender to form a paste. 6. Spread the paste on a sheet of puff pastry. 7. Place the beef on top of the paste. 8. Roll the pastry around the beef, sealing the edges with egg. 9. Place in the oven for 25-30 minutes until the pastry is golden brown.",
+            "rating": 4.5,
+            "favorite": false
+          },
+          {
+            "recipe_name": "Shepherd's Pie",
+            "ingredients": ["ground lamb", "potatoes", "carrots", "onions", "peas"],
+            "cooking_method": "1. Preheat the oven to 180C. 2. Cook the ground lamb in a hot pan until browned. 3. Add chopped onions and cook until softened. 4. Add chopped carrots and cook for a few minutes. 5. Add peas and season with salt and pepper. 6. Mash the potatoes and spread them over the lamb mixture in an oven-safe dish. 7. Place in the oven for 20-25 minutes until the potatoes are golden brown.",
+            "rating": 4.2,
+            "favorite": false
+          },
+          {
+            "recipe_name": "Baked Mac and Cheese",
+            "ingredients": ["macaroni", "cheddar cheese", "butter", "flour", "milk"],
+            "cooking_method": "1. Preheat the oven to 180C. 2. Cook the macaroni according to package instructions. 3. Melt the butter in a saucepan over low heat. 4. Add flour and stir until the mixture is smooth. 5. Add milk and whisk until the mixture thickens. 6. Add shredded cheddar cheese and stir until melted. 7. Combine the cheese sauce with the cooked macaroni. 8. Pour the mixture into an oven-safe dish. 9. Bake for 20-25 minutes until golden brown.",
+            "rating": 4.0,
+            "favorite": false
+          }]
       },
       {
         "id": "8",
